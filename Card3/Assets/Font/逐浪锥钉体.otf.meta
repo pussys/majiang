@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba2b3555e4b561a47aa6f05f6d0db092
+timeCreated: 1515583954
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZoomlaZhuiDing-A015
+  fontNames:
+  - ZoomlaZhuiDing-A015
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

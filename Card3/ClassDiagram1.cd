@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DG.Tweening.DOTweenAnimation" Collapsed="true">
+    <Position X="71" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAADADIkAACBCAFhICCAAHkgEQkABAACDAACCoiAgnQ=</HashCode>
+      <FileName>Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenAnimationExtensions" Collapsed="true">
+    <Position X="64" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioBase" Collapsed="true">
+    <Position X="38" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio\AudioBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioEvent" Collapsed="true">
+    <Position X="65.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAEAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Audio\AudioEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioManager" Collapsed="true">
+    <Position X="46.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAABAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BGAudio" Collapsed="true">
+    <Position X="36.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAQAAAAAAAAAAAACEAAAAAAAgAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Audio\BGAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EffectAudio" Collapsed="true">
+    <Position X="39" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAAAAAAAAIAAAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Audio\EffectAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Caa" Collapsed="true">
+    <Position X="67.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAgAAAAEEAAAAAAAAAAEAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Caa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardCtrl" Collapsed="true">
+    <Position X="69.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAACAAACAAAgAAAAAACAAAAIAAAAACAAAAAgI=</HashCode>
+      <FileName>Assets\Scripts\CardCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardCtrl2" Collapsed="true">
+    <Position X="71" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAABAAAACAAAAAAAAAACAAAAAAAIAACAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Character\CardCtrl2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterBase" Collapsed="true">
+    <Position X="41.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterEvent" Collapsed="true">
+    <Position X="64" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAQAAAEAAAIAggAAAAAAAAAAACAEAACAA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterManager" Collapsed="true">
+    <Position X="47.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeskCtrl" Collapsed="true">
+    <Position X="41" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAAAAABAAAAAQAAAAgIAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Character\DeskCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeftPlayerCtrl" Collapsed="true">
+    <Position X="42.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQACAAAABQAAAAAAAQogAAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\Character\LeftPlayerCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlayerCtrl" Collapsed="true">
+    <Position X="42.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAADAAAAQAAAAAABQAAAAAAAQAgIAAAAAEAUA=</HashCode>
+      <FileName>Assets\Scripts\Character\MyPlayerCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightPlayerCtrl" Collapsed="true">
+    <Position X="40.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQACAAAABQAAAAAAAQAgQAAAEAAAUA=</HashCode>
+      <FileName>Assets\Scripts\Character\RightPlayerCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AreaCode" Collapsed="true">
+    <Position X="64" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAwAAAAAgIAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Framework\AreaCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerBase" Collapsed="true">
+    <Position X="46.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Framework\ManagerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonoBase" Collapsed="true">
+    <Position X="32.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Framework\MonoBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MsgCenter" Collapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Framework\MsgCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameModel" Collapsed="true">
+    <Position X="68.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAABAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\GameModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models">
+    <Position X="70.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Model\Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientPeer">
+    <Position X="53" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAQAAAAAAgEAAAYAAAAAAAA0AEAEgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\ClientPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncodeTool" Collapsed="true">
+    <Position X="67.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAEAAgAAAAAAAAEAAAAAgAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Net\EncodeTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandlerBase" Collapsed="true">
+    <Position X="49.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\HandlerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccoutHandler">
+    <Position X="44.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\Impl\AccoutHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatHandler" Collapsed="true">
+    <Position X="47" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\Impl\ChatHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FightHandler" Collapsed="true">
+    <Position X="49.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYASAAAABAAQAAAAAAAgUAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\Impl\FightHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatchHandler" Collapsed="true">
+    <Position X="51.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAQgAAgAAAAQAAAAAAAAAAAAAACAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Net\Impl\MatchHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserHandler" Collapsed="true">
+    <Position X="53.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQBAQAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Net\Impl\UserHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetManager">
+    <Position X="49.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACgAAAQBAAAAAAABgAAACAAAQAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Net\NetManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="client" />
+      <Field Name="accountHandler" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SocketMsg" Collapsed="true">
+    <Position X="64" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Net\SocketMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadSceneMsg" Collapsed="true">
+    <Position X="64" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Scene\Msg\LoadSceneMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneEvent" Collapsed="true">
+    <Position X="71" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scene\SceneEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneMgr" Collapsed="true">
+    <Position X="45.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQKAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Scene\SceneMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtomPanel" Collapsed="true">
+    <Position X="34" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAACACAAQAAAAAABAAGAAAAJAgAAHvAAAAIEA=</HashCode>
+      <FileName>Assets\Scripts\UI\ButtomPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatePanel" Collapsed="true">
+    <Position X="38.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAACgAAAQAAAEAABAABAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\CreatePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataPanel" Collapsed="true">
+    <Position X="69.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgACAAAAgAAAAAABAAAQABAAAAAABAgAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\DataPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmailPanel" Collapsed="true">
+    <Position X="65.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\EmailPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpPanel" Collapsed="true">
+    <Position X="71" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\HelpPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoPanel" Collapsed="true">
+    <Position X="16.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAQAAAQAAAAAAAAAIAAAAAAIAAAQIEQ=</HashCode>
+      <FileName>Assets\Scripts\UI\InfoPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeftStatePanel" Collapsed="true">
+    <Position X="32" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\UI\LeftStatePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatchPanel" Collapsed="true">
+    <Position X="30.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBCgQgACAAAAUACAAEAhAAIAEAAAAAAAAAgIAAIEA=</HashCode>
+      <FileName>Assets\Scripts\UI\MatchPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionPanel" Collapsed="true">
+    <Position X="65.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\MissionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatMsg" Collapsed="true">
+    <Position X="65.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAABAA=</HashCode>
+      <FileName>Assets\Scripts\UI\Msg\ChatMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PromptMsg" Collapsed="true">
+    <Position X="69.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\Msg\PromptMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyStatePanel" Collapsed="true">
+    <Position X="31" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABCEAAIDgCEAQAACAAABAAAABAAAAAAIAAABAFAUA=</HashCode>
+      <FileName>Assets\Scripts\UI\MyStatePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OverPanel" Collapsed="true">
+    <Position X="25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAQAAAAAAAAAAAAAAABAgCAIgQAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\OverPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayPanel" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAKAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\PlayPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PromptPanel" Collapsed="true">
+    <Position X="23.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAUAAgAAAAAAAAAAAAAAAEAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\PromptPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegistPanel" Collapsed="true">
+    <Position X="31" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAADAACARAAAIAABAAAAQAAIAAAIAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\RegistPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightStatePanel" Collapsed="true">
+    <Position X="33" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\RightStatePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetPanel" Collapsed="true">
+    <Position X="33.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAgAAACAACAAAAAAAAIAAAAAAEAAAAIJAAICAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\SetPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartPanel">
+    <Position X="36.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAACAACAQAAAAAABAAAAQAAYAAAIAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\StartPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePanel" Collapsed="true">
+    <Position X="32" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEQAACAgQAQAEAAAAAAAAYIAEAAAAIAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\StatePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBase" Collapsed="true">
+    <Position X="32" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgBggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\UIBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIEvent" Collapsed="true">
+    <Position X="65.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAIBBAAKRACAAAAwAoAQAABBgAAAAAAECCAAAQQ=</HashCode>
+      <FileName>Assets\Scripts\UI\UIEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="44.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpPanel" Collapsed="true">
+    <Position X="29" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\UpPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardTeXiao" Collapsed="true">
+    <Position X="34.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAABAAACEAEA=</HashCode>
+      <FileName>Assets\TeXiao\CardTeXiao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

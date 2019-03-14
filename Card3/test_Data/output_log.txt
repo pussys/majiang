@@ -1,0 +1,264 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\Protocol.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\Protocol.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.896692 ms
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\Protocol.dll (this message is harmless)
+Loading H:\Card（9-30）\Card\test_Data\Managed\Protocol.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Card（9-30）\Card\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+连接服务器成功！
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 0.972580 ms
+连接服务器成功！
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+010
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.062865 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 1.057153 ms (FindLiveObjects: 0.060408 ms CreateObjectMapping: 0.015102 ms MarkObjects: 0.414932 ms  DeleteObjects: 0.565199 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetManager.processSocketMsg (.SocketMsg msg) [0x00000] in <filename unknown>:0 
+  at NetManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13121230
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+140
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+上线成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11Protocol.Dto.UserDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+21Protocol.Dto.MatchRoomDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.665771 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 0.956345 ms (FindLiveObjects: 0.165368 ms CreateObjectMapping: 0.030959 ms MarkObjects: 0.433055 ms  DeleteObjects: 0.326207 ms)
+
+250
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+010
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.252633 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 1.012224 ms (FindLiveObjects: 0.081929 ms CreateObjectMapping: 0.016612 ms MarkObjects: 0.518005 ms  DeleteObjects: 0.393411 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetManager.processSocketMsg (.SocketMsg msg) [0x00000] in <filename unknown>:0 
+  at NetManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13121230
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+140
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+上线成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11Protocol.Dto.UserDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+210Protocol.Dto.UserDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+21Protocol.Dto.MatchRoomDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.791874 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 0.855538 ms (FindLiveObjects: 0.133654 ms CreateObjectMapping: 0.035490 ms MarkObjects: 0.422861 ms  DeleteObjects: 0.263155 ms)
+
+210Protocol.Dto.UserDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+210Protocol.Dto.UserDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+252
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+252
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+251
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+251
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+411System.Collections.Generic.List`1[Protocol.Dto.Fight.CardDto]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+411System.Collections.Generic.List`1[Protocol.Dto.Fight.CardDto]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+421
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetManager.processSocketMsg (.SocketMsg msg) [0x00000] in <filename unknown>:0 
+  at NetManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+421
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetManager.processSocketMsg (.SocketMsg msg) [0x00000] in <filename unknown>:0 
+  at NetManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+422
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+422
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+41Protocol.Dto.Fight.GrabDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+41Protocol.Dto.Fight.GrabDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+442
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+没有啊
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+442
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+没有啊
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+45Protocol.Dto.Fight.DealDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+480
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 17fc -> priority: 1 
+  Thread -> id: 25f8 -> priority: 1 
+491
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: ec8 -> priority: 1 
+  Thread -> id: 135c -> priority: 1 

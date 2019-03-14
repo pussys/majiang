@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a23eb4014f02674fb4c75e74c18a223
+timeCreated: 1515583654
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZoomlaYuan-A016
+  fontNames:
+  - ZoomlaYuan-A016
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
