@@ -318,6 +318,9 @@
     <Reference Include="UnityEditor.Android.Extensions">
       <HintPath>D:/Unity Hub/2018.2.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.WSA.Extensions">
+      <HintPath>D:/Unity Hub/2018.2.18f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WebGL.Extensions">
       <HintPath>D:/Unity Hub/2018.2.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
     </Reference>

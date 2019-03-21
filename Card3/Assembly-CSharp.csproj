@@ -67,6 +67,7 @@
     <Compile Include="Assets\ceshi2.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
     <Compile Include="Assets\dianji.cs" />
+    <Compile Include="Assets\DoTweenText.cs" />
     <Compile Include="Assets\fanzhongli.cs" />
     <Compile Include="Assets\Main.cs" />
     <Compile Include="Assets\move.cs" />
